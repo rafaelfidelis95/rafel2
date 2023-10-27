@@ -6,11 +6,11 @@ console.log("Isso é uma mensagem;")
 
 let variavel1 = 'Essa é a variável 1. let, é usada para variáveis que podem ser reatribuídas mesmo depois de terem sido declaradas';
 
-cont variavel2 = 'Essa é a variável 2. cont, é usado para variáveis que não podem ser reatribuidas';
+const variavel2 = 'Essa é a variável 2. cont, é usado para variáveis que não podem ser reatribuidas';
 
 var variavel3 = 'Essa é a variável 3. var pode ser reatribuida, porém é desconhecida e não é uma boa prática utiliza-lá';
 // OPERAÇÕES:
-*/
+/*
 
  + ADIÇÃO
  - SUBTRAÇÃO
