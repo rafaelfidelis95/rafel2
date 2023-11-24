@@ -1,4 +1,4 @@
-//camelCase - Escrevemos uma declaração sem espaço começando com mínusculo e alternando entre maísculo e mínusculo.
+//camelCase - Escrevemos uma declaração sem espaço começando com mínusculo e colocando as palavras em maísculo e mínusculo.
 //Ex: saudarUsuário
 //ctrl/shift L= corrigir
 //alt shift e a setinha para direção desejada= multiplica o texto
@@ -69,4 +69,8 @@ function verificarAcesso(id){
 }
 
 verificarAcesso(id);
+
+
+
+
 
